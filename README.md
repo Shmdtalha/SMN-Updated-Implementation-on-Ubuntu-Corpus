@@ -2,7 +2,7 @@
 This repository includes the updated implementation of Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots(SMN)
 
 ## Download Files
-Be sure to download all of these files and place them in the main directory. \
+Be sure to download all of these files and place them in the main directory if you wish to test the model with samples. Please note that this is not provided in English. \
 [SMN additional files](https://drive.google.com/drive/folders/1QpaUd-sdVBGijSwV2wSJE-7J7568X-cv?usp=sharing)
 
 ## Requirements
