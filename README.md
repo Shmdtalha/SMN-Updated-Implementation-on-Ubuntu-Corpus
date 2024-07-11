@@ -6,6 +6,7 @@ Be sure to download all of these files and place them in the main directory if y
 [SMN additional files](https://drive.google.com/drive/folders/1QpaUd-sdVBGijSwV2wSJE-7J7568X-cv?usp=sharing)
 
 ## Requirements
+This model is compaible with python 3.9.
 gensim \
 theano
 
