@@ -1,0 +1,17 @@
+.dub
+dub.selections.json
+docs.json
+__dummy.html
+docs/
+/v221
+v221.so
+v221.dylib
+v221.dll
+v221.a
+v221.lib
+v221-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

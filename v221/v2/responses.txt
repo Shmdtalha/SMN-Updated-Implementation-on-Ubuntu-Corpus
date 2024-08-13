@@ -1,0 +1,92 @@
+8490	np ;] __eou__ have you checked that error file ? __eou__
+12765	yes rebooted . i can get inside the text shell . __eou__
+21667	ca n't say without knowing more specifics . __eou__
+34949	those are not installed by default . they are available though __eou__
+36709	the problem is only with the keyboard not with the mouse , is n't it ? __eou__
+46830	i fail to see where you confidence was restored . the entire keyring should not be available to any process running with user permissions . __eou__
+49630	how can i check whether they installed or not __eou__
+54759	hm , odd __eou__
+68815	yikes __eou__
+79868	it did n't work out for making a new user as well :-lrb- __eou__ now i 'm using gnomeclassic through recovery , as i can see , when you move the windows it becomes slow , seems that graphic is not well set __eou__
+86592	i do n't know . how do i check ? __eou__
+91573	lol __eou__ to be honest i have never gotten wpa to work for me , so if you figure it out please let me know __eou__
+94986	i 've redirected the stderr output to a variable but now echo $ var | grep foo does n't work again ... ! __eou__
+97431	dr_willis i know i ; m just lazy __eou__ > just want it to work a few months :-rrb- __eou__
+98018	great :-rrb- __eou__ make sure that those parameters are also set in / boot/grub/menu . lst before you reboot __eou__
+103719	the `` ntfs '' module from the kernel * will * mess up your filesystem , yes . __eou__
+134764	https://help.ubuntu.com/community/macbook __eou__
+136944	thanks . i 'm at the link now . __eou__
+148910	i think its rsyn but wouldnt count on it __eou__
+164902	it 's pretty much done , just a few more configurations for fine-tuning __eou__ https://help.ubuntu.com/12.04/serverguide/index.html __eou__
+166060	ah , sorry :p __eou__
+166963	what 's the cpu temperature like ? __eou__
+174340	for energy saving reason , i am hibernating my desktop when i 'm not at home . __eou__
+189905	was n't obvious . i looked around last night __eou__
+217946	you need ubuntu drivers for it :p __eou__ what does lsusb in terminal give you ? __eou__
+251058	yeah i want to script it , l3top please give me that example __eou__
+271686	about packages from ftp to the archive ? __eou__
+272116	somehow the install process was interrupted . that can have multiple reasons ... a broken package for example or other things . __eou__
+282379	think so ... __eou__ / wols _ : http://rafb.net/p/2cwhso17.html __eou__
+310909	not sure what you 're asking , but top will show processes run with & __eou__ of course , they may or may not have high enough cpu usage -lrb- or whatever you 're sorting by -rrb- to appear __eou__
+315734	i 've gotten it to load minecraft without crashing but as soon as it tries to show the splash screen it restart 's unity __eou__ no , java __eou__
+317118	oof . virtual machine on an atom . good luck . ;-\ __eou__
+329345	so when you are `` printing '' them from document viewer , it is to where ? __eou__
+332778	where in / dev is my hdd ? __eou__
+338403	probably because other users with the same hardware encountered serious issues . __eou__
+340478	i use http://www.heyu.org/ for software __eou__ i use a firecracker for hardware __eou__
+357686	what does hald -- version return ? __eou__
+361984	you do n't have to __eou__ please , you 're on a desktop and want to connect to the server is that it ? __eou__
+372162	as in would you recommend this path ? __eou__
+373434	i am not sure . i created ubuntu with 100 gb . i realize that i only need about 30-40 gb . would like to send the 70-60 gb back to my windows 8 __eou__
+378389	: seems to be the as what is in multiverse . unfortunately it does n't come with the gstreamer-plugin __eou__
+400040	i think i got it :-rrb- ubottu knows this stuff :d __eou__
+409013	ok , i will move to the #security channel , thanks ... __eou__
+413806	yes . and i already tried fixmbr and it 's still wo n't go away __eou__
+426905	cool thanks ! __eou__
+431962	how do i get around it ? __eou__
+432575	thank you . ill look into that . __eou__
+439706	settings - > keyboard - > shortcuts ? __eou__
+442284	well i think the more details posted here the more some one can get a better idea of the issue ... i cant gurantee that will be me but posting detials is important __eou__ well emerald is a window decorator and compiz a window manager what you want to use is either gtk-window-decorator if on gnome or kde4-window-deorator if on kde __eou__ compiz will not decorate the windows __eou__
+451146	i placed a ziptie set on the monitor frame positioned right next to the progress bar __eou__ it 's been 12 minutes and it has n't moved a bit __eou__
+454615	seems to be . __eou__
+458463	i understand but any idea on how to go about this ? this is an email server and i need to get solution asap . thank you . __eou__ system is running on ibm x226 __eou__
+459288	ive run out of space on my main hd __eou__ no a slave hd __eou__
+461355	okay , gotcha , sorta thinking there might be shortcuts that were different from other things i 'm used to __eou__
+468307	i ca n't be bothered to remember the differences between apt-cache and apt-get ! __eou__ lol __eou__ you turned this guy 's life upside-down __eou__
+498451	no kidding the password is only 8 digits __eou__
+502241	then you 'll need to upgrade :-rrb- __eou__
+503153	i am running a server off the ramdisk and do not want it to be swapped out because it could cause a major speed reduction __eou__
+512559	graphics unknown . is that bad ? __eou__
+518772	seems they disagree with me ... lol ... let me know how that worked out . __eou__
+531241	auronandace thanks , i 'll try that __eou__
+532112	thanks __eou__
+535155	:-rrb- __eou__
+549440	hm , i see something like `` clock : 400mhz '' but under '' * - cpu '' , let me check another machine . __eou__ the amd/athlon-xp -2500 machine says `` clock : 166mhz '' , does this make any sense to you ? __eou__ the intel machine says 400mhz which looks like its fsb freq . __eou__
+559269	you the 3rd party app ubuntu-tweak to clean your system , it 's not in the repos , you have to download it __eou__
+565708	thx __eou__
+576587	: i want to understand networking , so i need to understand that line ... i have some doubt about dhcp __eou__ : sorry ! but i know all this , but i want to understand meaning of that line __eou__ : have he plug printer in computer __eou__ : service cups start __eou__ : unix 2 -lsb- acc -rsb- stream lyssnar 21280 - / var/run/cups / cups.sock __eou__ : i 'm a newbie ... i just have 6 month experience __eou__ : can you help me to understand service management __eou__ : o k ! __eou__ : where is darksim __eou__
+578188	cool , thanks . __eou__
+605038	on reinstall it 's easier to setup / home in its own partition . makes it easier to do a clean install of the next system . yes to the last question ' __eou__
+612307	thanks . is dpkg for installing things ? __eou__
+629857	turn the screensaver off before hand __eou__ or use a stick to poke the mouse whenever it comes on __eou__
+683658	so , i would have to get the two , use the server to create the vm and the player to run it ? __eou__ workstation is an easier , bundled way to do that i suppose __eou__
+683998	this release is a couple of weeks old with rather a lot of users . i know of no os with ubuntu 's level of response . __eou__
+700275	uhhhh maybe ? __eou__ man xdotool , / sleep __eou__
+705424	yes , that 's one thing that i have learned ; if your willing to spend a little time messin ' with stuff , you can get ubuntu to do just about anything . -lrb- just about . . -rrb- __eou__
+707970	the title bar is still merging with global menu __eou__ it is really annoying because i could not minimize , maximize without touching the gnome panel __eou__
+715560	it is not working ... it just asks me that if i want it ro run asa deamon or not , and about encrypted passwd-s __eou__
+721646	/ lib/modules / ` uname - a ` / kernel/drivers/gpu / drm/i915/i915 . ko __eou__ oh ok __eou__
+730354	yup , i noticed that as well . very annoying ! __eou__
+731455	or replace the hdd __eou__ same same , 2009 vintage . basic photo/video editing , audio mixing and even the rare game now and then . all are running well . __eou__ older lappy ? try lubuntu or xubuntu - both are designed for older , lower spec devices . __eou__ also , ram matters . __eou__
+745885	yeah __eou__ ok __eou__ does it remember the brightness settings ? __eou__
+749135	http://pastebin.com/hrfc6ggx __eou__
+749514	well , i hope there are other audio modules ... lem me see __eou__ hm . you know , i might try to just update my kernel , see if anything comes of that . but otherwise , everything about duplex audio tends to suck . would not recommend it in general . __eou__
+750798	ok __eou__
+764176	i think i remember you , but not the nick though __eou__ you may be able to do an advanced search in uf using the part name of a member __eou__
+769118	i want to go there and remove it __eou__
+778703	drag0nius i try wine '' ... '' & and it gives me an error then crashes . without the & it loads and works , but keeps the terminal too __eou__
+785164	send it to a different workspace so it do n't show up in your panel . __eou__ i usually do that for thunderbird because if i close it , i wo n't get libnotify popup . so i leave it open and i get mail notifcations . __eou__
+790747	its my home __eou__ or cvr any of you know a way so i can access the . private folder to delete data . i dont understand from where i have so mutch space used when i only have like 5 gb of files downloaded -lrb- and the private hs already 70 gb -rrb- __eou__
+791213	i 've got some funky setups with my 3g and wimax cards . __eou__
+821379	right . thanks . 01:00.0 vga compatible controller : ati technologies inc unknown device 71c5 __eou__
+
