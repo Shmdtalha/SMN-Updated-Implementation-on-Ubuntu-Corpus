@@ -60,14 +60,18 @@ size_t twoToOne(string[size_t] responses, string path, string outPath){
 	foreach (char[][] cols; File(path, "r").byLine.map!(s => s.split("\t"))){
 		if (cols.length != 4)
 			continue;
-		foreach (i; 2 .. 4){
-			if (cols[i] == "NA")
-				continue;
-			foreach (size_t id; cols[i].split("|").map!(s => s.to!size_t)){
-				f.writefln!"%d\t%s\t%s"(i == 2, cols[1], responses[id]);
-				ret ++;
+		static foreach (i; 2 .. 4){{
+			enum ubyte Y = i == 2;
+			if (cols[i] != "NA"){
+				foreach (size_t id; cols[i].split("|").map!(s => s.to!size_t)){
+					f.writefln!"%d\t%s\t%s"(
+							Y,
+							cols[1].split(" __eou__ __eot__ ").join("\t"),
+							responses[id]);
+					ret ++;
+				}
 			}
-		}
+		}}
 	}
 	return ret;
 }
