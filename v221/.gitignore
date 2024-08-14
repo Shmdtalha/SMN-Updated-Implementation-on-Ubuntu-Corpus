@@ -15,3 +15,4 @@ v221-test-*
 *.o
 *.obj
 *.lst
+*.txt
