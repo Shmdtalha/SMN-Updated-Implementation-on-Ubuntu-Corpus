@@ -62,12 +62,16 @@ size_t twoToOne(string[size_t] responses, string path, string outPath){
 			continue;
 		static foreach (i; 2 .. 4){{
 			enum ubyte Y = i == 2;
+			char[] c = cols[1].split("__eou__ __eot__")
+				.map!(s => s.chomp())
+				.map!(s => s.replace("__eou__", "").replace("__eot__", ""))
+				.join("\t");
 			if (cols[i] != "NA"){
 				foreach (size_t id; cols[i].split("|").map!(s => s.to!size_t)){
 					f.writefln!"%d\t%s\t%s"(
 							Y,
-							cols[1].split(" __eou__ __eot__ ").join("\t"),
-							responses[id]);
+							c,
+							responses[id].replace("__eou__", "").replace("__eot__", ""));
 					ret ++;
 				}
 			}
